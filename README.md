@@ -21,6 +21,20 @@ A = np.array([[1,0,3],[-1,2,-2],[2,3,-1]])
 B = np.linalg.inv(A)
 print(B)
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Output:
 ![](Inverse.png)
 ## Result:
